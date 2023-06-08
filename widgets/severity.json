@@ -1,0 +1,101 @@
+[ {
+  "uid" : "4fb41e93aa101e4c",
+  "name" : "EasyApply",
+  "time" : {
+    "start" : 1686232666909,
+    "stop" : 1686232675539,
+    "duration" : 8630
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7901919ea4ce3b3",
+  "name" : "FindJobsTest",
+  "time" : {
+    "start" : 1686232630546,
+    "stop" : 1686232637886,
+    "duration" : 7340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9fcea658e4f1f66",
+  "name" : "Footer",
+  "time" : {
+    "start" : 1686232800417,
+    "stop" : 1686232944012,
+    "duration" : 143595
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "364b8c7e4222b54c",
+  "name" : "FindJobsTest",
+  "time" : {
+    "start" : 1686232983291,
+    "stop" : 1686232988025,
+    "duration" : 4734
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc19ba306e4a5419",
+  "name" : "Logintest",
+  "time" : {
+    "start" : 1686232642667,
+    "stop" : 1686232651920,
+    "duration" : 9253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecaecd2e696aa527",
+  "name" : "Footer",
+  "time" : {
+    "start" : 1686232683631,
+    "stop" : 1686232696126,
+    "duration" : 12495
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eccb8063fe5405e3",
+  "name" : "EasyApply",
+  "time" : {
+    "start" : 1686232703226,
+    "stop" : 1686232794022,
+    "duration" : 90796
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c243a712083d295e",
+  "name" : "FindJobsTest",
+  "time" : {
+    "start" : 1686232614445,
+    "stop" : 1686232624916,
+    "duration" : 10471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea4ef04c4f65f8a4",
+  "name" : "HeaderLinks",
+  "time" : {
+    "start" : 1686232949313,
+    "stop" : 1686232978480,
+    "duration" : 29167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b02c87f34d08aa1",
+  "name" : "SearchJobs",
+  "time" : {
+    "start" : 1686232657456,
+    "stop" : 1686232660308,
+    "duration" : 2852
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

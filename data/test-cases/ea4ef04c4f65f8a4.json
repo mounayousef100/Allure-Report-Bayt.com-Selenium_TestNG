@@ -1,0 +1,93 @@
+{
+  "uid" : "ea4ef04c4f65f8a4",
+  "name" : "HeaderLinks",
+  "fullName" : "com.Bayt.HomeTest.HomeHeaderAsGestTest.HeaderLinks",
+  "historyId" : "5441b75f2298d70a350b43b0fc3950dd",
+  "time" : {
+    "start" : 1686232949313,
+    "stop" : 1686232978480,
+    "duration" : 29167
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "OpenPage",
+    "time" : {
+      "start" : 1686232944405,
+      "stop" : 1686232949304,
+      "duration" : 4899
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "Clouser",
+    "time" : {
+      "start" : 1686232978483,
+      "stop" : 1686232978721,
+      "duration" : 238
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Bayt.HomeTest.HomeHeaderAsGestTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Bayt.HomeTest.HomeHeaderAsGestTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "HeaderLinks"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Bayt.HomeTest.HomeHeaderAsGestTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NPK11H1"
+  }, {
+    "name" : "thread",
+    "value" : "27284@DESKTOP-NPK11H1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea4ef04c4f65f8a4.json",
+  "parameterValues" : [ ]
+}

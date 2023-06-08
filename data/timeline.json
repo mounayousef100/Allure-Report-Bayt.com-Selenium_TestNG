@@ -1,0 +1,133 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-NPK11H1",
+    "children" : [ {
+      "name" : "27284@DESKTOP-NPK11H1.main(1)",
+      "children" : [ {
+        "name" : "FindJobsTest",
+        "uid" : "364b8c7e4222b54c",
+        "parentUid" : "49236da109f3d1bd54aaa59b9358c16b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1686232983291,
+          "stop" : 1686232988025,
+          "duration" : 4734
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "FindJobsTest",
+        "uid" : "c243a712083d295e",
+        "parentUid" : "49236da109f3d1bd54aaa59b9358c16b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686232614445,
+          "stop" : 1686232624916,
+          "duration" : 10471
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Footer",
+        "uid" : "ecaecd2e696aa527",
+        "parentUid" : "49236da109f3d1bd54aaa59b9358c16b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686232683631,
+          "stop" : 1686232696126,
+          "duration" : 12495
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "SearchJobs",
+        "uid" : "6b02c87f34d08aa1",
+        "parentUid" : "49236da109f3d1bd54aaa59b9358c16b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686232657456,
+          "stop" : 1686232660308,
+          "duration" : 2852
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EasyApply",
+        "uid" : "eccb8063fe5405e3",
+        "parentUid" : "49236da109f3d1bd54aaa59b9358c16b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686232703226,
+          "stop" : 1686232794022,
+          "duration" : 90796
+        },
+        "flaky" : false,
+        "parameters" : [ "Jordan", "Amman" ]
+      }, {
+        "name" : "FindJobsTest",
+        "uid" : "d7901919ea4ce3b3",
+        "parentUid" : "49236da109f3d1bd54aaa59b9358c16b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686232630546,
+          "stop" : 1686232637886,
+          "duration" : 7340
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "HeaderLinks",
+        "uid" : "ea4ef04c4f65f8a4",
+        "parentUid" : "49236da109f3d1bd54aaa59b9358c16b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686232949313,
+          "stop" : 1686232978480,
+          "duration" : 29167
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EasyApply",
+        "uid" : "4fb41e93aa101e4c",
+        "parentUid" : "49236da109f3d1bd54aaa59b9358c16b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686232666909,
+          "stop" : 1686232675539,
+          "duration" : 8630
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Logintest",
+        "uid" : "fc19ba306e4a5419",
+        "parentUid" : "49236da109f3d1bd54aaa59b9358c16b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686232642667,
+          "stop" : 1686232651920,
+          "duration" : 9253
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Footer",
+        "uid" : "e9fcea658e4f1f66",
+        "parentUid" : "49236da109f3d1bd54aaa59b9358c16b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686232800417,
+          "stop" : 1686232944012,
+          "duration" : 143595
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "49236da109f3d1bd54aaa59b9358c16b"
+    } ],
+    "uid" : "79b984864f5d64c0b29ac5c28b9874bd"
+  } ]
+}

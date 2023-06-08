@@ -1,0 +1,93 @@
+{
+  "uid" : "c243a712083d295e",
+  "name" : "FindJobsTest",
+  "fullName" : "com.Bayt.HomeTest.HowDoesBaytWorkTest.FindJobsTest",
+  "historyId" : "76b88e555ae46ecb9851c4a242fb981c",
+  "time" : {
+    "start" : 1686232614445,
+    "stop" : 1686232624916,
+    "duration" : 10471
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "OpenPage",
+    "time" : {
+      "start" : 1686232609524,
+      "stop" : 1686232614298,
+      "duration" : 4774
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "Clouser",
+    "time" : {
+      "start" : 1686232624948,
+      "stop" : 1686232625348,
+      "duration" : 400
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Bayt.HomeTest.HowDoesBaytWorkTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Bayt.HomeTest.HowDoesBaytWorkTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "FindJobsTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Bayt.HomeTest.HowDoesBaytWorkTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NPK11H1"
+  }, {
+    "name" : "thread",
+    "value" : "27284@DESKTOP-NPK11H1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c243a712083d295e.json",
+  "parameterValues" : [ ]
+}

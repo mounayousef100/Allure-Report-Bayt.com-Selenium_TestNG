@@ -1,0 +1,93 @@
+{
+  "uid" : "4fb41e93aa101e4c",
+  "name" : "EasyApply",
+  "fullName" : "com.Bayt.RegisterTest.CheekEmailRlreadyTest.EasyApply",
+  "historyId" : "41edd9c2e1d0698c3fb964ece4369d5c",
+  "time" : {
+    "start" : 1686232666909,
+    "stop" : 1686232675539,
+    "duration" : 8630
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "OpenPage",
+    "time" : {
+      "start" : 1686232660705,
+      "stop" : 1686232666902,
+      "duration" : 6197
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "Clouser",
+    "time" : {
+      "start" : 1686232675542,
+      "stop" : 1686232675674,
+      "duration" : 132
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Bayt.RegisterTest.CheekEmailRlreadyTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Bayt.RegisterTest.CheekEmailRlreadyTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "EasyApply"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Bayt.RegisterTest.CheekEmailRlreadyTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NPK11H1"
+  }, {
+    "name" : "thread",
+    "value" : "27284@DESKTOP-NPK11H1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fb41e93aa101e4c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "The following asserts failed:\n\texpected [true] but found [false],\n\texpected [true] but found [false],\n\texpected [true] but found [false],\n\texpected [true] but found [false],\n\texpected [true] but found [false],\n\texpected [true] but found [false],\n\texpected [true] but found [false],\n\texpected [true] but found [false],\n\texpected [true] but found [false],\n\texpected [true] but found [false]",
+      "children" : [ {
+        "name" : "FindJobsTest",
+        "uid" : "364b8c7e4222b54c",
+        "parentUid" : "474314746a34fb180c16fef5fad96894",
+        "status" : "failed",
+        "time" : {
+          "start" : 1686232983291,
+          "stop" : 1686232988025,
+          "duration" : 4734
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "474314746a34fb180c16fef5fad96894"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

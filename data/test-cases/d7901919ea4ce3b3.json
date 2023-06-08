@@ -1,0 +1,93 @@
+{
+  "uid" : "d7901919ea4ce3b3",
+  "name" : "FindJobsTest",
+  "fullName" : "com.Bayt.HomeTest.FindJobsinJordanTest.FindJobsTest",
+  "historyId" : "d5b883c8155b6112051096e81fc5370d",
+  "time" : {
+    "start" : 1686232630546,
+    "stop" : 1686232637886,
+    "duration" : 7340
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "OpenPage",
+    "time" : {
+      "start" : 1686232625356,
+      "stop" : 1686232630542,
+      "duration" : 5186
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "Clouser",
+    "time" : {
+      "start" : 1686232637888,
+      "stop" : 1686232638142,
+      "duration" : 254
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Bayt.HomeTest.FindJobsinJordanTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Bayt.HomeTest.FindJobsinJordanTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "FindJobsTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Bayt.HomeTest.FindJobsinJordanTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NPK11H1"
+  }, {
+    "name" : "thread",
+    "value" : "27284@DESKTOP-NPK11H1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7901919ea4ce3b3.json",
+  "parameterValues" : [ ]
+}

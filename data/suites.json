@@ -1,0 +1,173 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "com.Bayt.HomeTest.HowDoesBaytWorkTest",
+        "children" : [ {
+          "name" : "FindJobsTest",
+          "uid" : "c243a712083d295e",
+          "parentUid" : "535ba6c5de45bd96af5d5e446aadd6ae",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686232614445,
+            "stop" : 1686232624916,
+            "duration" : 10471
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "535ba6c5de45bd96af5d5e446aadd6ae"
+      }, {
+        "name" : "com.Bayt.HomeTest.FindJobsinJordanTest",
+        "children" : [ {
+          "name" : "FindJobsTest",
+          "uid" : "d7901919ea4ce3b3",
+          "parentUid" : "41446c1971f0d1496e6cc3d59f17609b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686232630546,
+            "stop" : 1686232637886,
+            "duration" : 7340
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "41446c1971f0d1496e6cc3d59f17609b"
+      }, {
+        "name" : "com.Bayt.LoginTest.LoginTest",
+        "children" : [ {
+          "name" : "Logintest",
+          "uid" : "fc19ba306e4a5419",
+          "parentUid" : "9edd0658121ccf5dfab3b6dbcdd269e6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686232642667,
+            "stop" : 1686232651920,
+            "duration" : 9253
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9edd0658121ccf5dfab3b6dbcdd269e6"
+      }, {
+        "name" : "com.Bayt.HomeTest.SearchJobsTest",
+        "children" : [ {
+          "name" : "SearchJobs",
+          "uid" : "6b02c87f34d08aa1",
+          "parentUid" : "9c19b946a9b20241bfe97bfd6e369b07",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686232657456,
+            "stop" : 1686232660308,
+            "duration" : 2852
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9c19b946a9b20241bfe97bfd6e369b07"
+      }, {
+        "name" : "com.Bayt.RegisterTest.CheekEmailRlreadyTest",
+        "children" : [ {
+          "name" : "EasyApply",
+          "uid" : "4fb41e93aa101e4c",
+          "parentUid" : "d88626cf838d2e42e0767ffe7845e190",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686232666909,
+            "stop" : 1686232675539,
+            "duration" : 8630
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d88626cf838d2e42e0767ffe7845e190"
+      }, {
+        "name" : "com.Bayt.FindJopsTest.ExecutiveJobsTest",
+        "children" : [ {
+          "name" : "Footer",
+          "uid" : "ecaecd2e696aa527",
+          "parentUid" : "8fab9eb61d95e63ea1ac357df7669b4c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686232683631,
+            "stop" : 1686232696126,
+            "duration" : 12495
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8fab9eb61d95e63ea1ac357df7669b4c"
+      }, {
+        "name" : "com.Bayt.RegisterTest.ApplyTest",
+        "children" : [ {
+          "name" : "EasyApply",
+          "uid" : "eccb8063fe5405e3",
+          "parentUid" : "ac4c4ba65cef231312140c60f93367d0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686232703226,
+            "stop" : 1686232794022,
+            "duration" : 90796
+          },
+          "flaky" : false,
+          "parameters" : [ "Jordan", "Amman" ]
+        } ],
+        "uid" : "ac4c4ba65cef231312140c60f93367d0"
+      }, {
+        "name" : "com.Bayt.HomeTest.FooterTest",
+        "children" : [ {
+          "name" : "Footer",
+          "uid" : "e9fcea658e4f1f66",
+          "parentUid" : "5e026541527026556bfd726b25e1def3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686232800417,
+            "stop" : 1686232944012,
+            "duration" : 143595
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5e026541527026556bfd726b25e1def3"
+      }, {
+        "name" : "com.Bayt.HomeTest.HomeHeaderAsGestTest",
+        "children" : [ {
+          "name" : "HeaderLinks",
+          "uid" : "ea4ef04c4f65f8a4",
+          "parentUid" : "bf32bc22fcdbe6fd4b60f166c90532e0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686232949313,
+            "stop" : 1686232978480,
+            "duration" : 29167
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bf32bc22fcdbe6fd4b60f166c90532e0"
+      }, {
+        "name" : "com.Bayt.HomeTest.PeopleWhoFoundJobsTest",
+        "children" : [ {
+          "name" : "FindJobsTest",
+          "uid" : "364b8c7e4222b54c",
+          "parentUid" : "0abfcb9ca135e8f3f53feeb26d2a63c6",
+          "status" : "failed",
+          "time" : {
+            "start" : 1686232983291,
+            "stop" : 1686232988025,
+            "duration" : 4734
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0abfcb9ca135e8f3f53feeb26d2a63c6"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

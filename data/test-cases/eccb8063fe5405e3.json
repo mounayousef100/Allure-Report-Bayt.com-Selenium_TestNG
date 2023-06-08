@@ -1,0 +1,99 @@
+{
+  "uid" : "eccb8063fe5405e3",
+  "name" : "EasyApply",
+  "fullName" : "com.Bayt.RegisterTest.ApplyTest.EasyApply",
+  "historyId" : "a37ad2c384e60e04c5114e9cb50a3ec",
+  "time" : {
+    "start" : 1686232703226,
+    "stop" : 1686232794022,
+    "duration" : 90796
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "OpenPage",
+    "time" : {
+      "start" : 1686232696793,
+      "stop" : 1686232703219,
+      "duration" : 6426
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "Clouser",
+    "time" : {
+      "start" : 1686232794029,
+      "stop" : 1686232794213,
+      "duration" : 184
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Bayt.RegisterTest.ApplyTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Bayt.RegisterTest.ApplyTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "EasyApply"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Bayt.RegisterTest.ApplyTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NPK11H1"
+  }, {
+    "name" : "thread",
+    "value" : "27284@DESKTOP-NPK11H1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Jordan"
+  }, {
+    "name" : "arg1",
+    "value" : "Amman"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eccb8063fe5405e3.json",
+  "parameterValues" : [ "Jordan", "Amman" ]
+}

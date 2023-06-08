@@ -1,0 +1,93 @@
+{
+  "uid" : "ecaecd2e696aa527",
+  "name" : "Footer",
+  "fullName" : "com.Bayt.FindJopsTest.ExecutiveJobsTest.Footer",
+  "historyId" : "3a42c59cff7e03e83cda935b543fcae9",
+  "time" : {
+    "start" : 1686232683631,
+    "stop" : 1686232696126,
+    "duration" : 12495
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "OpenPage",
+    "time" : {
+      "start" : 1686232675677,
+      "stop" : 1686232683626,
+      "duration" : 7949
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "Clouser",
+    "time" : {
+      "start" : 1686232696128,
+      "stop" : 1686232696306,
+      "duration" : 178
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Bayt.FindJopsTest.ExecutiveJobsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Bayt.FindJopsTest.ExecutiveJobsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Footer"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Bayt.FindJopsTest.ExecutiveJobsTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NPK11H1"
+  }, {
+    "name" : "thread",
+    "value" : "27284@DESKTOP-NPK11H1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ecaecd2e696aa527.json",
+  "parameterValues" : [ ]
+}
